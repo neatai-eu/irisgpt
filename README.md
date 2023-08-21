@@ -1,6 +1,6 @@
 # Welcome to IrisGpt
 
-![IrisGpt Logo](https://oobsaezjryljlcccqbls.supabase.co/storage/v1/object/public/random-assets/gfsdbsdbsdfb.png?t=2023-08-21T14%3A12%3A54.564Z)
+![IrisGpt Logo](https://oobsaezjryljlcccqbls.supabase.co/storage/v1/object/public/random-assets/jyukghjk.jpg?t=2023-08-21T14%3A14%3A36.079Z)
 
 ## Something Never Seen Before
 
