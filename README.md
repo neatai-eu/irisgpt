@@ -4,7 +4,7 @@
 
 ## Something Never Seen Before
 
-Introducing our groundbreaking LLM AI Model, Iris - something never seen before, powered by the latest advancements in artificial intelligence architecture. Experience the next level of legal expertise and efficiency like never before.
+Introducing our groundbreaking LLM AI Model, Iris - something never seen before, powered by the latest advancements in artificial intelligence architecture. Experience the next level of legal expertise and efficiency like never before. Online on [playground.neatai.eu](https://neatai.eu/iris/playground)
 
 ## Unleash the Power of AI
 
